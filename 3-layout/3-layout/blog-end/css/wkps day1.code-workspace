@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../flex_template"
+		},
+		{
+			"path": "../../../../test"
+		}
+	],
+	"settings": {}
+}
